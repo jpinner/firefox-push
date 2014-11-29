@@ -1,0 +1,5 @@
+A small test server to debug issues with Spdy Push across iframe tags in Firefox.
+
+Run the server via: ./server.sh <port>
+
+Navigate to: https://localhost:<port>
